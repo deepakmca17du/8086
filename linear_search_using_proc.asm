@@ -1,3 +1,5 @@
+; Program to search an element using procedure.
+
 data segment
     
     array db 01h,02h,03h,04h,05h,06h,07h,08h
