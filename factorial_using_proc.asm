@@ -1,6 +1,6 @@
 data segment
     
-    num      dw 05h     
+    num      dw 05h     #initiaizing number
     
     count    dw 05h  
     
